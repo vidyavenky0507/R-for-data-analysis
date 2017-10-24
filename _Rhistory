@@ -1,0 +1,5 @@
+load("pm.Rdata")
+setwd("C:/Grad/Grad/sem2/R for data analysis")
+load("pm.Rdata")
+View(data05)
+View(data14)
